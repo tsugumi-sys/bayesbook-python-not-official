@@ -1,6 +1,8 @@
-# 機械学習スタートアップシリーズ ベイズ推論による機械学習入門
+# Python実装 of 「械学習スタートアップシリーズ ベイズ推論による機械学習入門」
 
-**NOTE:** This is not official.
+### **NOTE:** This is not official.
+
+[Julia実装のOffitialRepo](https://github.com/sammy-suyama/BayesBook)
 
 ## Contents
 
